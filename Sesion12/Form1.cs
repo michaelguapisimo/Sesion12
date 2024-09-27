@@ -50,5 +50,9 @@ namespace Sesion12
             tbid.Focus();
         }
 
+        private void tbdescripcion_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

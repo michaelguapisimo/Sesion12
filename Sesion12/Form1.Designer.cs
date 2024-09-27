@@ -100,6 +100,7 @@
             this.tbdescripcion.Name = "tbdescripcion";
             this.tbdescripcion.Size = new System.Drawing.Size(257, 20);
             this.tbdescripcion.TabIndex = 6;
+            this.tbdescripcion.TextChanged += new System.EventHandler(this.tbdescripcion_TextChanged);
             // 
             // tbprice
             // 
