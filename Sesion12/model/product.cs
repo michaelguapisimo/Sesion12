@@ -12,7 +12,5 @@ namespace Sesion12.model
         public string Name { get; set; }
         public string Description { get; set; }
         public double price { get; set; }
-
-        public double quantity { get; set; }
     }
 }
